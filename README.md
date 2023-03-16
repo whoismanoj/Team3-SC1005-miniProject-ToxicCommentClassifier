@@ -1,5 +1,3 @@
-# SC1005-miniProject-ToxicCommentClassifier
-
 ## SC1005 Mini-Project: Toxic Comment Classification Challenge
 
 PT1 Team 3: CHEN XUEER, SUSU TUN
@@ -30,3 +28,4 @@ PT1 Team 3: CHEN XUEER, SUSU TUN
 
 
 ##  Directories
+### Jupyter Notebook #1: Data Extraction & Exploratory Analysis
