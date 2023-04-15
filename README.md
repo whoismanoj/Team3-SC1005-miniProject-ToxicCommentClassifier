@@ -1,7 +1,7 @@
 ## SC1005 Mini-Project: Toxic Comment Classification Challenge
 
 ## About
-This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on Kaggle:Toxic Comment Classification Challenge
+This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on Toxic Comment Classification Challenge
 
 ![image](https://d19gb5k9ejx8w0.cloudfront.net/uploads/2021/07/29222440/Cyberbullying_featured_image.jpg)
 
