@@ -1,31 +1,52 @@
 ## SC1005 Mini-Project: Toxic Comment Classification Challenge
 
-PT1 Team 3: CHEN XUEER, SUSU TUN
+## About
+This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on Kaggle[Toxic Comment Classification Challenge]
 
-![image](IMAGE URL)
+## Contributors(PT1 Team 3)
+ - @chenxe      CHEN XUEER
+ - @SuSuTun25   SUSU TUN
+
+![image](https://img.freepik.com/premium-vector/isometric-cyberbullying-horizontal-concept-with-toxic-comments-emotional-abuse-vector-illustration_1284-75227.jpg?w=2000)
 
 ## Objective
+To develop a machine learning model to accurate detect and classify toxic or offensice content in text so as to further actions can be taken against it.
+This can be useful in a variety of applications, such as social media moderation, content filtering, and online harassment prevention. Additionally, the model can be used to provide feedback to users who use inappropriate language, encouraging them to change their behavior and contribute to a more positive online conversation. Basically, it aims to promote a more inclusive, respectful, and healthy online community, where everyone can feel safe to express their opinions without fear of being harassed or insulted.
 
-## Tech Stack
+## Suggestions
+Addressing toxic behavior requires a multifaceted approach that involves:
+- Education on appropriate online behavior
+- Community Moderation encourage community members to report toxic behavior and have a dedicated team to review and address those reports
+- Empower victims of toxic behavior to speak out and take action. Provide them with the necessary tools and resources to report, block, and seek help
+- Platform policies clearly communicated to user that prohibit toxic behavior, hate speech, and harassment
+- Develop and implement machine learning algorithms and other technology solutions to identify and address toxic behavior in real-time
 
-- Data retrieval: [Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data)
+## Conclusion
+In conclusion, the development of a toxic comment classifier is a crucial step in creating a safer and more respectful online environment. The project involved the use of machine learning algorithms to train a model that could accurately classify comments as toxic or non-toxic. Through the use of natural language processing techniques, the model was able to analyze the language used in comments and make predictions about their toxicity.
 
-- Data wrangling: Python
+The project required the acquisition and preprocessing of a large dataset of comments, as well as the selection and training of appropriate machine learning algorithms. The resulting toxic comment classifier showed promising results in accurately identifying toxic comments, which can be used to identify and address toxic behavior online.
 
-- Data visualisation: 
+However, it is important to note that this project is just one step in addressing the larger issue of toxic behavior online. The model is not perfect and may still misclassify certain comments.
 
-- Presentation: 
+## What did we learn from this project?
+- Natural Language Processing Techniques
+- Neural Networks
+- Bidirectional LSTM
+- Collaborating using GitHub
+- other new packages like tensorflow,gradio
 
 ## Libraries
-
 - Pandas
 - Numpy
 - Seaborn
 - matplotlib
+- tensorflow
+- textblob
+- networkx
+- collections
+- nltk
+- gradio
 
-
-##  Algorithms
-
-
-##  Directories
-### Jupyter Notebook #1: Data Extraction & Exploratory Analysis
+##  Model Used
+- Neural Network
+- Bidirectional LSTM
