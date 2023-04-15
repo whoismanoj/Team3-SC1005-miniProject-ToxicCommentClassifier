@@ -1,13 +1,13 @@
 ## SC1005 Mini-Project: Toxic Comment Classification Challenge
 
+![image](https://d19gb5k9ejx8w0.cloudfront.net/uploads/2021/07/29222440/Cyberbullying_featured_image.jpg)
+
 ## About
 This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on Kaggle:Toxic Comment Classification Challenge
 
 ## Contributors(PT1 Team 3)
 - [@chenxe](https://github.com/chenxe)           CHEN XUEER
 - [@SuSuTun25](https://github.com/SusuTun25)     SUSU TUN
-
-![image](https://d19gb5k9ejx8w0.cloudfront.net/uploads/2021/07/29222440/Cyberbullying_featured_image.jpg)
 
 ## Objective
 To develop a machine learning model to accurate detect and classify toxic or offensice content in text so as to further actions can be taken against it.
