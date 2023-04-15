@@ -7,7 +7,7 @@ This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial I
  - [@chenxe](https://github.com/chenxe)           CHEN XUEER
  - [@SuSuTun25](https://github.com/SusuTun25)     SUSU TUN
 
-![image](https://img.freepik.com/premium-vector/isometric-cyberbullying-horizontal-concept-with-toxic-comments-emotional-abuse-vector-illustration_1284-75227.jpg?w=2000)
+![image](https://d19gb5k9ejx8w0.cloudfront.net/uploads/2021/07/29222440/Cyberbullying_featured_image.jpg)
 
 ## Objective
 To develop a machine learning model to accurate detect and classify toxic or offensice content in text so as to further actions can be taken against it.
