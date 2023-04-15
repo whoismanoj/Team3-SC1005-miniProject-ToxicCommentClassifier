@@ -4,8 +4,8 @@
 This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on Kaggle[Toxic Comment Classification Challenge]
 
 ## Contributors(PT1 Team 3)
- - @chenxe      CHEN XUEER
- - @SuSuTun25   SUSU TUN
+ - @chenxe[https://github.com/chenxe]           CHEN XUEER
+ - @SuSuTun25[https://github.com/SusuTun25]     SUSU TUN
 
 ![image](https://img.freepik.com/premium-vector/isometric-cyberbullying-horizontal-concept-with-toxic-comments-emotional-abuse-vector-illustration_1284-75227.jpg?w=2000)
 
